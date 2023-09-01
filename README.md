@@ -23,3 +23,5 @@ We first implement an NMF algorithm and test it on a set of simple matrices. The
 Then, we demonstrate how the NMF extracts common features and how accurate the reconstruction is, visually and by computing the Frobenius norm.
 
 In the last part of this project we add random noise to the NFTs and then apply the NMF to se how effectively it can denoise the images. We will then again provide a plot of the Frobenius norm of the difference between the original images and the reconstructions for several dimensions of the NMF.
+
+Note: The projects are done in Norwegian, but the readme file is translated to english.
