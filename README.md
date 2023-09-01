@@ -24,4 +24,5 @@ Then, we demonstrate how the NMF extracts common features and how accurate the r
 
 In the last part of this project we add random noise to the NFTs and then apply the NMF to se how effectively it can denoise the images. We will then again provide a plot of the Frobenius norm of the difference between the original images and the reconstructions for several dimensions of the NMF.
 
-Note: The projects are done in Norwegian, but the readme file is translated to english.
+## Note:
+The projects are done in Norwegian, but the readme file is translated to english.
